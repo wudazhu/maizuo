@@ -1,0 +1,31 @@
+.section .se3 .shang{padding:0 0.1rem;background:#fff;}
+.section .se3 .shang ul{width:100%;display: flex;border-bottom:1px solid orangered}
+.section .se3 .shang ul li{list-style:none;width:50%;font-size:16px;text-align: center;height:0.45rem;
+line-height:0.45rem;}
+.section .se3 .shang ul li a{text-decoration: none;color:#000;display: block;width:100%;height:100%;}
+.section .se3 .shang .active{color:orangered;border-bottom:3px solid orangered;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

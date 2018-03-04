@@ -1,0 +1,31 @@
+.section{background:rgb(247, 246, 246)}
+.section .se4 .yong{display:flex;justify-content: center;margin-top:0.5rem;position: relative}
+.section .se4 .yong input{padding:0.05rem 0.1rem;width:80%;border:none;background:rgb(247, 246, 246);
+outline: none;height:0.2rem;}
+.section .se4 .yong .kuang{border:1px solid #999;position: absolute;width:80%;height:0.15rem;margin-top:0.1rem;
+border-top:none;}
+.section .se4 .lu{display: flex;justify-content: center;margin-top:0.8rem;}
+.section .se4 .lu p{width:1.5rem;height:0.35rem;background:rgb(253, 129, 79);line-height:0.35rem;text-align: center;
+color:#fff;border-radius: 20px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
